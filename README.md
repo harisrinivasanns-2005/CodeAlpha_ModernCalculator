@@ -10,9 +10,10 @@ A modern, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - Responsive design (works well on desktop & mobile)
 - Smooth animations and shadow effects
 
-## 🚀 Technologies Used
+  🚀 Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## 📁 Project Structure
+
+
